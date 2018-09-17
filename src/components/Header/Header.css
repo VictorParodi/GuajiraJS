@@ -1,0 +1,19 @@
+.yellow-bgd {
+    background-color: #FFE57F;
+}
+
+.extra-height {
+    height: 500px;
+}
+
+.dark-grey-font {
+    color: #424242;
+}
+
+.header-title {
+    padding-top: 50px;
+} 
+
+.no-shadow {
+    box-shadow: none;
+}
