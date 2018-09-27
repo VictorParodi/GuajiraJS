@@ -22,8 +22,12 @@ class Header extends Component {
                 </nav>
 
                 <div className="container">
-                    <h1 className="header-title">GUAJIRA JS</h1>
-                    <p>Es una comunidad de ingenieros de software guajiros, interesados en el ecositema de Javascript</p>
+                    <h1 className="header-title center-text">GUAJIRA.JS</h1>
+                    <p className="subheader-title center-text">
+                        -- Guajira loves Javascript Lorem ipsum dolor sit, amet consectetur
+                        adipisicing elit. In tempora voluptatum accusantium vitae aliquam voluptates, cupiditate cumque sint
+                        voluptate quos velit! --
+                    </p>
                 </div>
             </header>
         );

@@ -3,7 +3,7 @@
 }
 
 .extra-height {
-    height: 500px;
+    height: 850px;
 }
 
 .dark-grey-font {
@@ -11,8 +11,16 @@
 }
 
 .header-title {
-    padding-top: 50px;
-} 
+    font-family: 'Francois One', sans-serif;
+    font-size: 8em;
+    font-weight: bold;
+    padding-top: 220px;
+}
+
+.subheader-title {
+    font-size: 1.1em;
+    font-style: italic;
+}
 
 .no-shadow {
     box-shadow: none;
