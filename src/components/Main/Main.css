@@ -1,6 +1,6 @@
 .main-title {
-    font-size: 20px;
-    font-weight: bolder;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .center-text {
@@ -22,10 +22,27 @@
 }
 
 .main-container {
-    padding-top: 1em;
+    padding-bottom: 3em;
+    padding-top: 3em;
 }
 
 .card-info-container {
-    padding-bottom: 6em;
+    padding-bottom: 4em;
     padding-top: 4em;
+}
+
+.custom-divider {
+    border: 2px solid lightslategray;
+    width: 40px;
+}
+
+.centered-divider {
+    margin: auto;
+}
+
+.card-item-title {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-bottom: 0.5em;
 }

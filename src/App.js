@@ -7,8 +7,8 @@ class App extends Component {
     return (
       <div>
         <Header />
-        <Main />
         <Second />
+        <Main />
         <BlogSection />
         <Footer />
       </div>

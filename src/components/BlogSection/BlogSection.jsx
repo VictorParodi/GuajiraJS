@@ -4,7 +4,8 @@ class BlogSection extends Component {
     render() {
         return (
             <div className="container main-container">
-                <h2 className="main-title center-text"> Blogpost </h2>
+                <h2 className="main-title center-text"> Our Blog </h2>
+                <div className="custom-divider centered-divider"></div>
 
                 <div className="row">
                     <div className="col s12 m4 l6">
@@ -20,7 +21,7 @@ class BlogSection extends Component {
                             </div>
 
                             <div className="card-action">
-                                <a href="#">This is a link</a>
+                                <a href="#">Leer</a>
                             </div>
                         </div>
                     </div>
@@ -38,7 +39,7 @@ class BlogSection extends Component {
                             </div>
 
                             <div className="card-action">
-                                <a href="#">This is a link</a>
+                                <a href="#">Leer</a>
                             </div>
                         </div>
                     </div>

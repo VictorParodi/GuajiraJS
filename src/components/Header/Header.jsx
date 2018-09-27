@@ -11,9 +11,19 @@ class Header extends Component {
                             <li>
                                 <a className="dark-grey-font" href="sass.html">Inicio</a>
                             </li>
+
                             <li>
                                 <a className="dark-grey-font" href="badges.html">Eventos</a>
                             </li>
+
+                            <li>
+                                <a className="dark-grey-font" href="badges.html">Recursos</a>
+                            </li>
+
+                            <li>
+                                <a className="dark-grey-font" href="badges.html">Comunidad</a>
+                            </li>
+
                             <li>
                                 <a className="dark-grey-font" href="collapsible.html">Blog</a>
                             </li>

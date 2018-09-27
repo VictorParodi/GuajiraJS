@@ -1,3 +1,35 @@
 .light-gray-bgd {
     background-color: #fafafa;
 }
+
+.custom-border {
+    border: 1px dotted orange;
+}
+
+.custom-border-2 {
+    border: 1px dashed black;
+}
+
+.no-margin-top {
+    margin-top: 0px;
+}
+
+.second-text {
+    padding-top: 2em;
+    text-align: justify;
+}
+
+.list-item-container {
+    display: flex;
+    padding-bottom: 0.3em;
+    padding-top: 0.3em;
+}
+
+.image-section {
+    border-radius: 50%;
+    min-height: 25.4em;
+}
+
+.second-section-text-container {
+    padding-right: 3em;
+}
