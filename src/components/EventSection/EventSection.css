@@ -1,0 +1,22 @@
+.event-container {
+    align-items: center;
+    display: flex;
+    margin-top: 5em;
+}
+
+.event-title {
+    font-size: 1.6em;
+    margin-top: -0.3em;
+}
+
+.black-divider {
+    background-color: rgba(0,0,0,0.1);
+}
+
+.event-button {
+    margin-top: 12px;
+}
+
+.super-container {
+    padding-bottom: 8em;
+}
