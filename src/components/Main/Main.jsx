@@ -13,11 +13,11 @@ class Main extends Component {
                         <div className="col s12 m4">
                             <div className="card-panel default card-item center-text">
                                 <div>
-                                    <i className="large material-icons">add</i>
+                                    <i className="large material-icons">code</i>
                                 </div>
                                 
                                 <span className="card-item-text">
-                                    <span className="card-item-title"> Card title </span>
+                                    <span className="card-item-title">Framewroks</span>
                                     I am a very simple card. I am good at containing small bits of information.
                                 </span>
                             </div>
@@ -26,11 +26,11 @@ class Main extends Component {
                         <div className="col s12 m4">
                             <div className="card-panel default card-item center-text">
                                 <div>
-                                    <i class="large material-icons">group</i>
+                                    <i className="large material-icons">import_contacts</i>
                                 </div>
 
                                 <span className="card-item-text">
-                                    <span className="card-item-title"> Card title </span>
+                                    <span className="card-item-title">Books</span>
                                     I am a very simple card. I am good at containing small bits of information.
                                 </span>
                             </div>
@@ -39,11 +39,50 @@ class Main extends Component {
                         <div className="col s12 m4">
                             <div className="card-panel default card-item center-text">
                                 <div>
-                                    <i className="large material-icons">add</i>
+                                    <i className="large material-icons">play_circle_outline</i>
                                 </div>
 
                                 <span className="card-item-text">
-                                    <span className="card-item-title"> Card title </span>
+                                    <span className="card-item-title">Video Tutorial</span>
+                                    I am a very simple card. I am good at containing small bits of information.
+                                </span>
+                            </div>
+                        </div>
+
+                        <div className="col s12 m4">
+                            <div className="card-panel default card-item center-text">
+                                <div>
+                                    <i className="large material-icons">code</i>
+                                </div>
+                                
+                                <span className="card-item-text">
+                                    <span className="card-item-title">Framewroks</span>
+                                    I am a very simple card. I am good at containing small bits of information.
+                                </span>
+                            </div>
+                        </div>
+
+                        <div className="col s12 m4">
+                            <div className="card-panel default card-item center-text">
+                                <div>
+                                    <i className="large material-icons">import_contacts</i>
+                                </div>
+
+                                <span className="card-item-text">
+                                    <span className="card-item-title">Books</span>
+                                    I am a very simple card. I am good at containing small bits of information.
+                                </span>
+                            </div>
+                        </div>
+
+                        <div className="col s12 m4">
+                            <div className="card-panel default card-item center-text">
+                                <div>
+                                    <i className="large material-icons">play_circle_outline</i>
+                                </div>
+
+                                <span className="card-item-text">
+                                    <span className="card-item-title">Video Tutorial</span>
                                     I am a very simple card. I am good at containing small bits of information.
                                 </span>
                             </div>

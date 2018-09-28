@@ -20,3 +20,8 @@
 .super-container {
     padding-bottom: 8em;
 }
+
+.event-button-container {
+    padding-right: 0px;
+    text-align: right;
+}

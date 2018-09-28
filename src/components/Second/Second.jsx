@@ -19,35 +19,35 @@ class Second extends Component {
                             <ul>
                                 <li>
                                     <div className="list-item-container">
-                                        <i className="material-icons">place</i>
+                                        <i className="material-icons">done</i>
                                         Texto del item
                                     </div>
                                 </li>
 
                                 <li>
                                     <div className="list-item-container">
-                                        <i className="material-icons">place</i>
+                                        <i className="material-icons">done</i>
                                         Texto del item
                                     </div>
                                 </li>
 
                                 <li>
                                     <div className="list-item-container">
-                                        <i className="material-icons">place</i>
+                                        <i className="material-icons">done</i>
                                         Texto del item
                                     </div>
                                 </li>
 
                                 <li>
                                     <div className="list-item-container">
-                                        <i className="material-icons">place</i>
+                                        <i className="material-icons">done</i>
                                         Texto del item
                                     </div>
                                 </li>
 
                                 <li>
                                     <div className="list-item-container">
-                                        <i className="material-icons">place</i>
+                                        <i className="material-icons">done</i>
                                         Texto del item
                                     </div>
                                 </li>
