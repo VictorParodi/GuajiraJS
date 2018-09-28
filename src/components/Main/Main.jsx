@@ -6,7 +6,7 @@ class Main extends Component {
         return (
             <div className="grey lighten-4">
                 <div className="container main-container">
-                    <h2 className="main-title center-text"> Eventos </h2>
+                    <h2 className="main-title center-text"> Recursos </h2>
                     <div className="custom-divider centered-divider"></div>
 
                     <div className="row card-info-container">
