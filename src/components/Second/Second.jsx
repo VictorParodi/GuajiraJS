@@ -54,7 +54,7 @@ class Second extends Component {
                             </ul>
                         </div>
 
-                        <div className="col s12 m5">
+                        <div className="col s12 m5 hide-on-small-only">
                             <img 
                                 className="responsive-img image-section"
                                 src="https://images.pexels.com/photos/1323592/pexels-photo-1323592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
